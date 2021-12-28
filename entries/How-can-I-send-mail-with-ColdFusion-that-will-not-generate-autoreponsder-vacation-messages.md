@@ -4,7 +4,7 @@ published: July 7, 2008
 author: Kamru Miah
 authorwebsite: 
 categories: Email
-permalink: How-can-I-send-mail-with-ColdFusion-that-will-not-generate-autoreponsder-vacation-messages.html
+permalink: entries/How-can-I-send-mail-with-ColdFusion-that-will-not-generate-autoreponsder-vacation-messages.html
 entryid: 143
 ---
 

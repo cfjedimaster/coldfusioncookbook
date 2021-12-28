@@ -4,7 +4,7 @@ published: March 31, 2006
 author: Jacob Munson
 authorwebsite: http://www.techfeed.net/blog/
 categories: File and Directory Access
-permalink: How-do-I-find-the-size-of-a-directory.html
+permalink: entries/How-do-I-find-the-size-of-a-directory.html
 entryid: 79
 ---
 

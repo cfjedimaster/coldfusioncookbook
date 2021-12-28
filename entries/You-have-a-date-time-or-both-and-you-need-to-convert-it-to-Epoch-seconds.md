@@ -4,7 +4,7 @@ published: January 6, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-have-a-date-time-or-both-and-you-need-to-convert-it-to-Epoch-seconds.html
+permalink: entries/You-have-a-date-time-or-both-and-you-need-to-convert-it-to-Epoch-seconds.html
 entryid: 13
 ---
 

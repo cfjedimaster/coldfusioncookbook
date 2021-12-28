@@ -4,7 +4,7 @@ published: July 21, 2008
 author: Larry C. Lyons
 authorwebsite: http://www.lyonsmorris.com/lyons/
 categories: Data Structures
-permalink: How-can-you-test-to-see-if-two-arrays-are-the-same.html
+permalink: entries/How-can-you-test-to-see-if-two-arrays-are-the-same.html
 entryid: 152
 ---
 

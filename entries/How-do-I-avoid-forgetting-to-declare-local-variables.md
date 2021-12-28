@@ -4,7 +4,7 @@ published: November 13, 2006
 author: Dale Fraser
 authorwebsite: http://dale.fraser.id.au/
 categories: Components
-permalink: How-do-I-avoid-forgetting-to-declare-local-variables.html
+permalink: entries/How-do-I-avoid-forgetting-to-declare-local-variables.html
 entryid: 118
 ---
 

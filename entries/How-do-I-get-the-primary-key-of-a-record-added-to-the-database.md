@@ -4,7 +4,7 @@ published: July 15, 2008
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Database / SQL
-permalink: How-do-I-get-the-primary-key-of-a-record-added-to-the-database.html
+permalink: entries/How-do-I-get-the-primary-key-of-a-record-added-to-the-database.html
 entryid: 146
 ---
 

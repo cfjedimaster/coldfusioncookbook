@@ -4,7 +4,7 @@ published: July 21, 2008
 author: Stefan le Roux
 authorwebsite: http://www.coldfury.us
 categories: File and Directory Access
-permalink: How-do-I-find-the-file-extension-for-a-file.html
+permalink: entries/How-do-I-find-the-file-extension-for-a-file.html
 entryid: 151
 ---
 

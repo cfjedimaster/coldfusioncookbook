@@ -4,7 +4,7 @@ published: March 8, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching
-permalink: How-can-ColdFusion-cache-a-database-query.html
+permalink: entries/How-can-ColdFusion-cache-a-database-query.html
 entryid: 71
 ---
 

@@ -4,7 +4,7 @@ published: July 7, 2008
 author: Todd Sharp
 authorwebsite: http://cfsilence.com
 categories: Email
-permalink: How-Do-I-Send-An-Email-To-Multiple-Recipients-Without-All-Email-Addresses-Being-Listed-in-the-To-Line.html
+permalink: entries/How-Do-I-Send-An-Email-To-Multiple-Recipients-Without-All-Email-Addresses-Being-Listed-in-the-To-Line.html
 entryid: 122
 ---
 

@@ -4,7 +4,7 @@ published: September 15, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Application Management
-permalink: How-do-I-restart-an-application-in-ColdFusion.html
+permalink: entries/How-do-I-restart-an-application-in-ColdFusion.html
 entryid: 111
 ---
 

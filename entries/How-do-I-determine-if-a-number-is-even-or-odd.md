@@ -4,7 +4,7 @@ published: February 3, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Numbers
-permalink: How-do-I-determine-if-a-number-is-even-or-odd.html
+permalink: entries/How-do-I-determine-if-a-number-is-even-or-odd.html
 entryid: 53
 ---
 

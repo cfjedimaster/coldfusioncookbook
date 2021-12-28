@@ -4,7 +4,7 @@ published: June 13, 2006
 author: Bif
 authorwebsite: http://www.biff.org
 categories: XML
-permalink: How-do-I-perform-an-XSLT-transform.html
+permalink: entries/How-do-I-perform-an-XSLT-transform.html
 entryid: 102
 ---
 

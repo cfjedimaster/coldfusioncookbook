@@ -4,7 +4,7 @@ published: December 6, 2007
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Display and Layout,Images
-permalink: How-can-I-create-a-CAPTCHA-image-with-ColdFusion.html
+permalink: entries/How-can-I-create-a-CAPTCHA-image-with-ColdFusion.html
 entryid: 134
 ---
 

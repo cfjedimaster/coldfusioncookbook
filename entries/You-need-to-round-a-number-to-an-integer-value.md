@@ -4,7 +4,7 @@ published: January 10, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Numbers
-permalink: You-need-to-round-a-number-to-an-integer-value.html
+permalink: entries/You-need-to-round-a-number-to-an-integer-value.html
 entryid: 24
 ---
 

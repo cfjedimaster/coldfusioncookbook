@@ -4,7 +4,7 @@ published: June 12, 2006
 author: Hal Helms
 authorwebsite: http://halhelms.com/
 categories: Components
-permalink: How-do-I-get-around-a-lack-of-constructors-in-CFCs.html
+permalink: entries/How-do-I-get-around-a-lack-of-constructors-in-CFCs.html
 entryid: 98
 ---
 

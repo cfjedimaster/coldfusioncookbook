@@ -4,7 +4,7 @@ published: January 27, 2006
 author: Terrence Ryan
 authorwebsite: http://www.numtopia.com/terry
 categories: Security
-permalink: How-do-you-force-an-application-to-use-SSL.html
+permalink: entries/How-do-you-force-an-application-to-use-SSL.html
 entryid: 45
 ---
 

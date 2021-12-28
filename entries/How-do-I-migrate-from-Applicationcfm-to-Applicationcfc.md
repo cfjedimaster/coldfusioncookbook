@@ -4,7 +4,7 @@ published: December 26, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Application Management
-permalink: How-do-I-migrate-from-Applicationcfm-to-Applicationcfc.html
+permalink: entries/How-do-I-migrate-from-Applicationcfm-to-Applicationcfc.html
 entryid: 124
 ---
 

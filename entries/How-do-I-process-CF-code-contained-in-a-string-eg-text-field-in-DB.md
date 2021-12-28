@@ -4,7 +4,7 @@ published: May 31, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching,Miscellaneous
-permalink: How-do-I-process-CF-code-contained-in-a-string-eg-text-field-in-DB.html
+permalink: entries/How-do-I-process-CF-code-contained-in-a-string-eg-text-field-in-DB.html
 entryid: 94
 ---
 

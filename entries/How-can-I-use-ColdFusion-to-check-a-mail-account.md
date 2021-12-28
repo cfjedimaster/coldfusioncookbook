@@ -4,7 +4,7 @@ published: June 12, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Miscellaneous
-permalink: How-can-I-use-ColdFusion-to-check-a-mail-account.html
+permalink: entries/How-can-I-use-ColdFusion-to-check-a-mail-account.html
 entryid: 97
 ---
 

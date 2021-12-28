@@ -4,7 +4,7 @@ published: July 1, 2008
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Strings,JavaScript
-permalink: How-can-I-use-ColdFusion-to-work-with-JSON.html
+permalink: entries/How-can-I-use-ColdFusion-to-work-with-JSON.html
 entryid: 140
 ---
 

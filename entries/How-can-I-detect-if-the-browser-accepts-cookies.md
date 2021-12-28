@@ -4,7 +4,7 @@ published: May 22, 2006
 author: Massimo Foti
 authorwebsite: http://www.massimocorner.com
 categories: Application Management
-permalink: How-can-I-detect-if-the-browser-accepts-cookies.html
+permalink: entries/How-can-I-detect-if-the-browser-accepts-cookies.html
 entryid: 91
 ---
 

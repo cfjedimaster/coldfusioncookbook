@@ -4,7 +4,7 @@ published: May 20, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Database / SQL
-permalink: How-do-I-get-the-SQL-used-to-generate-a-query.html
+permalink: entries/How-do-I-get-the-SQL-used-to-generate-a-query.html
 entryid: 90
 ---
 

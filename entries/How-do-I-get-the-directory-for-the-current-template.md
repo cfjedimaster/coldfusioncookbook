@@ -4,7 +4,7 @@ published: January 26, 2006
 author: Stan Winchester
 authorwebsite: http://www.aftershockweb.com/
 categories: File and Directory Access
-permalink: How-do-I-get-the-directory-for-the-current-template.html
+permalink: entries/How-do-I-get-the-directory-for-the-current-template.html
 entryid: 42
 ---
 

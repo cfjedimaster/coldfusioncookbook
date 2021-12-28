@@ -4,7 +4,7 @@ published: March 7, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching
-permalink: How-can-I-clear-a-clientside-or-serverside-cache-that-was-created-by-the-ltcfcachegt-tag.html
+permalink: entries/How-can-I-clear-a-clientside-or-serverside-cache-that-was-created-by-the-ltcfcachegt-tag.html
 entryid: 70
 ---
 

@@ -4,7 +4,7 @@ published: January 12, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Data Structures
-permalink: How-do-you-loop-over-the-values-of-an-array.html
+permalink: entries/How-do-you-loop-over-the-values-of-an-array.html
 entryid: 26
 ---
 

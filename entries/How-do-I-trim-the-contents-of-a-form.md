@@ -4,7 +4,7 @@ published: January 13, 2006
 author: Tjarko Rikkerink
 authorwebsite: http://www.mximize.com
 categories: Forms
-permalink: How-do-I-trim-the-contents-of-a-form.html
+permalink: entries/How-do-I-trim-the-contents-of-a-form.html
 entryid: 28
 ---
 

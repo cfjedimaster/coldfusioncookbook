@@ -4,7 +4,7 @@ published: January 17, 2006
 author: Charlie Griefer
 authorwebsite: http://charlie.griefer.com/
 categories: Data Structures
-permalink: How-do-you-copy-a-structure.html
+permalink: entries/How-do-you-copy-a-structure.html
 entryid: 31
 ---
 

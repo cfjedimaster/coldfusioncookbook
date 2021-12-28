@@ -4,7 +4,7 @@ published: June 30, 2013
 author: Joshua Miller
 authorwebsite: http://www.jo5h.com
 categories: Security
-permalink: How-Do-I-Consume-SSL-Encrypted-Content-with-CFHTTP.html
+permalink: entries/How-Do-I-Consume-SSL-Encrypted-Content-with-CFHTTP.html
 entryid: 156
 ---
 

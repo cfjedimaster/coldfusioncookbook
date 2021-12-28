@@ -4,7 +4,7 @@ published: March 9, 2006
 author: Brian Moss
 authorwebsite: 
 categories: Caching
-permalink: How-can-I-clear-the-cache-of-a-recordset-created-with-ltcfquerygt.html
+permalink: entries/How-can-I-clear-the-cache-of-a-recordset-created-with-ltcfquerygt.html
 entryid: 72
 ---
 

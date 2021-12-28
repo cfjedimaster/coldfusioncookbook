@@ -4,7 +4,7 @@ published: July 7, 2008
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Forms,Email
-permalink: How-do-I-mail-the-contents-of-a-form.html
+permalink: entries/How-do-I-mail-the-contents-of-a-form.html
 entryid: 1
 ---
 

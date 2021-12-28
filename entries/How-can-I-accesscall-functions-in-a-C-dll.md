@@ -4,7 +4,7 @@ published: August 30, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Miscellaneous
-permalink: How-can-I-accesscall-functions-in-a-C-dll.html
+permalink: entries/How-can-I-accesscall-functions-in-a-C-dll.html
 entryid: 109
 ---
 

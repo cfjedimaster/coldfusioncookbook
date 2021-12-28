@@ -4,7 +4,7 @@ published: January 9, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Numbers
-permalink: You-need-to-format-a-number-as-a-US-currency-for-output.html
+permalink: entries/You-need-to-format-a-number-as-a-US-currency-for-output.html
 entryid: 17
 ---
 

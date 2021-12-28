@@ -4,7 +4,7 @@ published: September 8, 2006
 author: Jacob Munson
 authorwebsite: http://www.techfeed.net/blog/
 categories: File and Directory Access
-permalink: How-do-I-get-a-listing-of-just-the-files-or-child-directories-in-a-directory.html
+permalink: entries/How-do-I-get-a-listing-of-just-the-files-or-child-directories-in-a-directory.html
 entryid: 110
 ---
 

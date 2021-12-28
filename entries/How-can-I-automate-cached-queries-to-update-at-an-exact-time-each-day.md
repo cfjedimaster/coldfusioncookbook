@@ -4,7 +4,7 @@ published: March 15, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching
-permalink: How-can-I-automate-cached-queries-to-update-at-an-exact-time-each-day.html
+permalink: entries/How-can-I-automate-cached-queries-to-update-at-an-exact-time-each-day.html
 entryid: 73
 ---
 

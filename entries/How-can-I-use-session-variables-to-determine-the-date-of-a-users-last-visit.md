@@ -4,7 +4,7 @@ published: June 30, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Application Management
-permalink: How-can-I-use-session-variables-to-determine-the-date-of-a-users-last-visit.html
+permalink: entries/How-can-I-use-session-variables-to-determine-the-date-of-a-users-last-visit.html
 entryid: 96
 ---
 

@@ -4,7 +4,7 @@ published: June 13, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: JavaScript
-permalink: How-can-I-tell-if-a-user-has-JavaScript-enabled.html
+permalink: entries/How-can-I-tell-if-a-user-has-JavaScript-enabled.html
 entryid: 99
 ---
 

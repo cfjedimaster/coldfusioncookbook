@@ -4,7 +4,7 @@ published: January 8, 2007
 author: Joe Hammond
 authorwebsite: 
 categories: Database / SQL
-permalink: How-do-I-connect-to-a-Progress-Database.html
+permalink: entries/How-do-I-connect-to-a-Progress-Database.html
 entryid: 125
 ---
 

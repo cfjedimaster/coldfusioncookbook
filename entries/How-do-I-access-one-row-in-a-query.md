@@ -4,7 +4,7 @@ published: March 23, 2006
 author: Christoph Schmitz
 authorwebsite: 
 categories: Queries
-permalink: How-do-I-access-one-row-in-a-query.html
+permalink: entries/How-do-I-access-one-row-in-a-query.html
 entryid: 32
 ---
 

@@ -4,7 +4,7 @@ published: July 12, 2006
 author: Tariq Ahmed
 authorwebsite: http://www.cflex.net/
 categories: Dates/Times
-permalink: How-do-I-format-an-Active-Directory-Timestamp.html
+permalink: entries/How-do-I-format-an-Active-Directory-Timestamp.html
 entryid: 105
 ---
 

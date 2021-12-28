@@ -4,7 +4,7 @@ published: May 29, 2008
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Dates/Times
-permalink: How-do-I-check-if-a-date-is-in-the-current-century.html
+permalink: entries/How-do-I-check-if-a-date-is-in-the-current-century.html
 entryid: 139
 ---
 

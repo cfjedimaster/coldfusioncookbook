@@ -4,7 +4,7 @@ published: February 8, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching
-permalink: How-can-I-cache-the-results-of-a-block-of-ColdFusion-code.html
+permalink: entries/How-can-I-cache-the-results-of-a-block-of-ColdFusion-code.html
 entryid: 55
 ---
 

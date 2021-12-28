@@ -4,7 +4,7 @@ published: January 9, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Numbers
-permalink: You-need-to-determine-whether-a-number-is-positive-or-negative-or-you-need-to-find-the-absolute-value-of-a-number.html
+permalink: entries/You-need-to-determine-whether-a-number-is-positive-or-negative-or-you-need-to-find-the-absolute-value-of-a-number.html
 entryid: 16
 ---
 

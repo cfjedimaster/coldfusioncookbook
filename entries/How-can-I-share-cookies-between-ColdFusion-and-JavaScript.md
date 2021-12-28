@@ -4,7 +4,7 @@ published: April 3, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: JavaScript
-permalink: How-can-I-share-cookies-between-ColdFusion-and-JavaScript.html
+permalink: entries/How-can-I-share-cookies-between-ColdFusion-and-JavaScript.html
 entryid: 80
 ---
 

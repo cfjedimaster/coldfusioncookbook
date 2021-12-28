@@ -4,7 +4,7 @@ published: December 12, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Lists
-permalink: How-do-I-remove-repeated-values-from-a-list.html
+permalink: entries/How-do-I-remove-repeated-values-from-a-list.html
 entryid: 121
 ---
 

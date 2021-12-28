@@ -4,7 +4,7 @@ published: January 26, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Forms
-permalink: How-do-I-upload-a-file-to-my-ColdFusion-application-by-way-of-a-form.html
+permalink: entries/How-do-I-upload-a-file-to-my-ColdFusion-application-by-way-of-a-form.html
 entryid: 43
 ---
 

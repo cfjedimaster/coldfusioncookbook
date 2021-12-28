@@ -4,7 +4,7 @@ published: September 29, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Dates/Times
-permalink: How-do-I-retrieve-the-dates-for-specific-days-of-the-week-for-all-months-in-a-year-and-put-them-into-an-array.html
+permalink: entries/How-do-I-retrieve-the-dates-for-specific-days-of-the-week-for-all-months-in-a-year-and-put-them-into-an-array.html
 entryid: 113
 ---
 

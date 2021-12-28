@@ -4,7 +4,7 @@ published: February 23, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Display and Layout
-permalink: How-can-I-display-a-message-on-a-longrunning-page.html
+permalink: entries/How-can-I-display-a-message-on-a-longrunning-page.html
 entryid: 64
 ---
 

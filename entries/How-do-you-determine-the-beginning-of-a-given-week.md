@@ -4,7 +4,7 @@ published: June 13, 2006
 author: Oliver Merk
 authorwebsite: http://www.merkconsulting.com
 categories: Dates/Times
-permalink: How-do-you-determine-the-beginning-of-a-given-week.html
+permalink: entries/How-do-you-determine-the-beginning-of-a-given-week.html
 entryid: 101
 ---
 

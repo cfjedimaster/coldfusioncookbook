@@ -4,7 +4,7 @@ published: February 22, 2006
 author: Erik Goodlad
 authorwebsite: http://www.errorik.com/
 categories: Display and Layout
-permalink: How-do-I-display-query-results-in-an-Ncolumn-table-layout.html
+permalink: entries/How-do-I-display-query-results-in-an-Ncolumn-table-layout.html
 entryid: 62
 ---
 

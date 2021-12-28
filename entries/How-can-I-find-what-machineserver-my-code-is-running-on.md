@@ -4,7 +4,7 @@ published: July 3, 2008
 author: J.C. Overgaard
 authorwebsite: http://yougiveloveabad.name
 categories: Miscellaneous
-permalink: How-can-I-find-what-machineserver-my-code-is-running-on.html
+permalink: entries/How-can-I-find-what-machineserver-my-code-is-running-on.html
 entryid: 141
 ---
 

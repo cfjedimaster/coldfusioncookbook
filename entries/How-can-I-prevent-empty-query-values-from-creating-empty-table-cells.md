@@ -4,7 +4,7 @@ published: May 23, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Strings
-permalink: How-can-I-prevent-empty-query-values-from-creating-empty-table-cells.html
+permalink: entries/How-can-I-prevent-empty-query-values-from-creating-empty-table-cells.html
 entryid: 93
 ---
 

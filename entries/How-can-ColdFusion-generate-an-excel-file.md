@@ -4,7 +4,7 @@ published: July 28, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Miscellaneous
-permalink: How-can-ColdFusion-generate-an-excel-file.html
+permalink: entries/How-can-ColdFusion-generate-an-excel-file.html
 entryid: 107
 ---
 

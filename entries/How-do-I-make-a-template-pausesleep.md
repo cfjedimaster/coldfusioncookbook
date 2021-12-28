@@ -4,7 +4,7 @@ published: February 22, 2006
 author: Steve Gustafson
 authorwebsite: http://blog.geopoly.com/
 categories: Miscellaneous
-permalink: How-do-I-make-a-template-pausesleep.html
+permalink: entries/How-do-I-make-a-template-pausesleep.html
 entryid: 61
 ---
 

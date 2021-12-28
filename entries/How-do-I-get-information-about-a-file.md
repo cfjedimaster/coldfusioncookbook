@@ -4,7 +4,7 @@ published: July 18, 2008
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-do-I-get-information-about-a-file.html
+permalink: entries/How-do-I-get-information-about-a-file.html
 entryid: 149
 ---
 

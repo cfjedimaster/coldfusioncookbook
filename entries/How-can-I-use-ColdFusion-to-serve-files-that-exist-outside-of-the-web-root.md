@@ -4,7 +4,7 @@ published: December 3, 2007
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-can-I-use-ColdFusion-to-serve-files-that-exist-outside-of-the-web-root.html
+permalink: entries/How-can-I-use-ColdFusion-to-serve-files-that-exist-outside-of-the-web-root.html
 entryid: 133
 ---
 

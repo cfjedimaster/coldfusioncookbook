@@ -4,7 +4,7 @@ published: January 30, 2006
 author: Stan Winchester
 authorwebsite: http://www.aftershockweb.com/
 categories: File and Directory Access
-permalink: How-can-I-limit-the-size-of-a-file-when-uploading-with-cffile.html
+permalink: entries/How-can-I-limit-the-size-of-a-file-when-uploading-with-cffile.html
 entryid: 46
 ---
 

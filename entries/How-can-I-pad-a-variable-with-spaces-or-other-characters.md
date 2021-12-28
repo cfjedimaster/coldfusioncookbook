@@ -4,7 +4,7 @@ published: September 5, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Display and Layout,Strings
-permalink: How-can-I-pad-a-variable-with-spaces-or-other-characters.html
+permalink: entries/How-can-I-pad-a-variable-with-spaces-or-other-characters.html
 entryid: 108
 ---
 

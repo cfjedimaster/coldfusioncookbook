@@ -4,7 +4,7 @@ published: January 16, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Application Management
-permalink: How-do-I-know-when-a-users-session-ends.html
+permalink: entries/How-do-I-know-when-a-users-session-ends.html
 entryid: 30
 ---
 

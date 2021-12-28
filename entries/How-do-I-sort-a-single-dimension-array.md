@@ -4,7 +4,7 @@ published: May 8, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Data Structures
-permalink: How-do-I-sort-a-single-dimension-array.html
+permalink: entries/How-do-I-sort-a-single-dimension-array.html
 entryid: 86
 ---
 

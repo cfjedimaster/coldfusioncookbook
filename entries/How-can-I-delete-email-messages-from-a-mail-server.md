@@ -4,7 +4,7 @@ published: July 17, 2008
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Email
-permalink: How-can-I-delete-email-messages-from-a-mail-server.html
+permalink: entries/How-can-I-delete-email-messages-from-a-mail-server.html
 entryid: 147
 ---
 

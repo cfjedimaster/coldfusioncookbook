@@ -4,7 +4,7 @@ published: February 9, 2007
 author: Kyle Hayes
 authorwebsite: http://www.kylehayes.info/
 categories: Database / SQL,File and Directory Access
-permalink: How-do-I-return-a-query-from-an-Excel-file.html
+permalink: entries/How-do-I-return-a-query-from-an-Excel-file.html
 entryid: 114
 ---
 

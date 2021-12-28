@@ -4,7 +4,7 @@ published: January 6, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-want-to-add-to-or-subtract-from-a-datetime-object.html
+permalink: entries/You-want-to-add-to-or-subtract-from-a-datetime-object.html
 entryid: 10
 ---
 

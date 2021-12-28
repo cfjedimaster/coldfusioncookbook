@@ -4,7 +4,7 @@ published: January 13, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Numbers
-permalink: You-need-to-generate-a-unique-identification-value-to-track-a-user.html
+permalink: entries/You-need-to-generate-a-unique-identification-value-to-track-a-user.html
 entryid: 29
 ---
 

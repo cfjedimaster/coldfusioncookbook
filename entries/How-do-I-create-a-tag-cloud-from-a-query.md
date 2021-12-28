@@ -4,7 +4,7 @@ published: November 21, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Display and Layout
-permalink: How-do-I-create-a-tag-cloud-from-a-query.html
+permalink: entries/How-do-I-create-a-tag-cloud-from-a-query.html
 entryid: 119
 ---
 

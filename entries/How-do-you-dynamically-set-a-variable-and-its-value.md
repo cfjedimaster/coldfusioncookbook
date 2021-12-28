@@ -4,7 +4,7 @@ published: March 2, 2006
 author: Martin Thorpe
 authorwebsite: http://www.nonstoploop.co.uk
 categories: Data Structures
-permalink: How-do-you-dynamically-set-a-variable-and-its-value.html
+permalink: entries/How-do-you-dynamically-set-a-variable-and-its-value.html
 entryid: 67
 ---
 

@@ -1,0 +1,13 @@
+---
+layout: main
+title: Categories
+headertext: The following page lists the categories of questions here at the ColdFusion Cookbook. Use this to begin your search...
+---
+
+{% for cat in categorylist %}
+
+	<h3><a href="/category/{{ cat.slug }}.html">{{cat.title}}</a></h3>
+	<p>
+		{{ cat.desc }}
+	</p>
+{% endfor %}

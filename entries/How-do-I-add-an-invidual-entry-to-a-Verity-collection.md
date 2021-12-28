@@ -4,7 +4,7 @@ published: April 18, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Full-Text Searching
-permalink: How-do-I-add-an-invidual-entry-to-a-Verity-collection.html
+permalink: entries/How-do-I-add-an-invidual-entry-to-a-Verity-collection.html
 entryid: 84
 ---
 

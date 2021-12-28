@@ -4,7 +4,7 @@ published: July 1, 2008
 author: Hal Helms
 authorwebsite: http://halhelms.com/
 categories: File and Directory Access
-permalink: How-can-I-read-a-simple-text-file-processing-each-line-of-the-file.html
+permalink: entries/How-can-I-read-a-simple-text-file-processing-each-line-of-the-file.html
 entryid: 60
 ---
 

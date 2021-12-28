@@ -4,7 +4,7 @@ published: March 29, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: JavaScript
-permalink: How-do-I-make-sure-a-string-is-safe-to-use-with-JavaScript.html
+permalink: entries/How-do-I-make-sure-a-string-is-safe-to-use-with-JavaScript.html
 entryid: 78
 ---
 

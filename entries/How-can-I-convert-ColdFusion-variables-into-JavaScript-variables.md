@@ -4,7 +4,7 @@ published: March 23, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: JavaScript
-permalink: How-can-I-convert-ColdFusion-variables-into-JavaScript-variables.html
+permalink: entries/How-can-I-convert-ColdFusion-variables-into-JavaScript-variables.html
 entryid: 77
 ---
 

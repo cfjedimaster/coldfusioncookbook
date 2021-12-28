@@ -4,7 +4,7 @@ published: January 11, 2006
 author: Larry C. Lyons
 authorwebsite: http://www.lyonsmorris.com/lyons/
 categories: Forms
-permalink: How-do-you-stop-users-from-clicking-the-submit-button-more-than-once.html
+permalink: entries/How-do-you-stop-users-from-clicking-the-submit-button-more-than-once.html
 entryid: 25
 ---
 

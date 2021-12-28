@@ -4,7 +4,7 @@ published: January 21, 2007
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: File and Directory Access
-permalink: How-do-I-convert-a-list-of-files-into-links.html
+permalink: entries/How-do-I-convert-a-list-of-files-into-links.html
 entryid: 126
 ---
 

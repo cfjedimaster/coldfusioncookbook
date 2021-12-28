@@ -4,7 +4,7 @@ published: January 12, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Data Structures
-permalink: How-do-you-determine-if-an-array-position-exists.html
+permalink: entries/How-do-you-determine-if-an-array-position-exists.html
 entryid: 27
 ---
 

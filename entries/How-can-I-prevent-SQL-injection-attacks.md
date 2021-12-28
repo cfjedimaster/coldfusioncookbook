@@ -4,7 +4,7 @@ published: January 19, 2006
 author: James Holmes
 authorwebsite: http://jr-holmes.coldfusionjournal.com/
 categories: Database / SQL
-permalink: How-can-I-prevent-SQL-injection-attacks.html
+permalink: entries/How-can-I-prevent-SQL-injection-attacks.html
 entryid: 36
 ---
 

@@ -4,7 +4,7 @@ published: February 1, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Forms
-permalink: How-can-I-work-with-remote-HTML-forms.html
+permalink: entries/How-can-I-work-with-remote-HTML-forms.html
 entryid: 48
 ---
 

@@ -4,7 +4,7 @@ published: December 12, 2007
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-can-ColdFusion-work-with-ZIP-and-JAR-files.html
+permalink: entries/How-can-ColdFusion-work-with-ZIP-and-JAR-files.html
 entryid: 137
 ---
 

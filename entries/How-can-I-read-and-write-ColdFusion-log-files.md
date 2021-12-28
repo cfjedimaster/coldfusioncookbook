@@ -4,7 +4,7 @@ published: February 2, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-can-I-read-and-write-ColdFusion-log-files.html
+permalink: entries/How-can-I-read-and-write-ColdFusion-log-files.html
 entryid: 51
 ---
 

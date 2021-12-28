@@ -4,7 +4,7 @@ published: February 22, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching
-permalink: How-can-I-cache-a-ColdFusion-page-on-the-client-machine.html
+permalink: entries/How-can-I-cache-a-ColdFusion-page-on-the-client-machine.html
 entryid: 63
 ---
 

@@ -4,7 +4,7 @@ published: February 19, 2006
 author: Hal Helms
 authorwebsite: http://halhelms.com/
 categories: Miscellaneous
-permalink: How-do-I-do-a-serverside-relocation.html
+permalink: entries/How-do-I-do-a-serverside-relocation.html
 entryid: 59
 ---
 

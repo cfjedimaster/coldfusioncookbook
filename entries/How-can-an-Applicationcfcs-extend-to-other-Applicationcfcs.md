@@ -4,7 +4,7 @@ published: October 19, 2006
 author: Sean Corfield
 authorwebsite: http://corfield.org/
 categories: Application Management
-permalink: How-can-an-Applicationcfcs-extend-to-other-Applicationcfcs.html
+permalink: entries/How-can-an-Applicationcfcs-extend-to-other-Applicationcfcs.html
 entryid: 116
 ---
 

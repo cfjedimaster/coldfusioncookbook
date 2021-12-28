@@ -4,7 +4,7 @@ published: January 23, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Numbers
-permalink: How-do-I-work-with-logarithms.html
+permalink: entries/How-do-I-work-with-logarithms.html
 entryid: 38
 ---
 

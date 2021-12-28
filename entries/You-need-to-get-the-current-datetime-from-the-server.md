@@ -4,7 +4,7 @@ published: January 5, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-need-to-get-the-current-datetime-from-the-server.html
+permalink: entries/You-need-to-get-the-current-datetime-from-the-server.html
 entryid: 2
 ---
 

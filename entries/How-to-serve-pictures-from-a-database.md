@@ -4,7 +4,7 @@ published: May 29, 2007
 author: Philippe Randour
 authorwebsite: http://www.randour.net
 categories: Display and Layout
-permalink: How-to-serve-pictures-from-a-database.html
+permalink: entries/How-to-serve-pictures-from-a-database.html
 entryid: 130
 ---
 

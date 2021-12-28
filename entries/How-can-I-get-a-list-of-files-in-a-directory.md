@@ -4,7 +4,7 @@ published: February 28, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-can-I-get-a-list-of-files-in-a-directory.html
+permalink: entries/How-can-I-get-a-list-of-files-in-a-directory.html
 entryid: 66
 ---
 

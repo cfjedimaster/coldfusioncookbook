@@ -4,7 +4,7 @@ published: January 26, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-do-I-find-out-if-a-specific-file-or-directory-exists-on-my-ColdFusion-server.html
+permalink: entries/How-do-I-find-out-if-a-specific-file-or-directory-exists-on-my-ColdFusion-server.html
 entryid: 40
 ---
 

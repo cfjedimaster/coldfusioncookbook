@@ -4,7 +4,7 @@ published: January 6, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-need-to-extract-the-daymonthyearhourminutesecond-DMYHMS-day-of-the-weekyear-week-number-or-quarter-from-a-datetime-object.html
+permalink: entries/You-need-to-extract-the-daymonthyearhourminutesecond-DMYHMS-day-of-the-weekyear-week-number-or-quarter-from-a-datetime-object.html
 entryid: 12
 ---
 

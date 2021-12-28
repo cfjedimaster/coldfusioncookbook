@@ -4,7 +4,7 @@ published: January 27, 2006
 author: Charlie Griefer
 authorwebsite: http://charlie.griefer.com/
 categories: Display and Layout
-permalink: How-can-I-ensure-there-are-no-leading-or-trailing-spaces-in-my-variable-.html
+permalink: entries/How-can-I-ensure-there-are-no-leading-or-trailing-spaces-in-my-variable-.html
 entryid: 44
 ---
 

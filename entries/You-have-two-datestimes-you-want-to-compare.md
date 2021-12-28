@@ -4,7 +4,7 @@ published: January 6, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-have-two-datestimes-you-want-to-compare.html
+permalink: entries/You-have-two-datestimes-you-want-to-compare.html
 entryid: 11
 ---
 

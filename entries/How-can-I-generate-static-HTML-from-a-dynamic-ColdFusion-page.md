@@ -4,7 +4,7 @@ published: February 13, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching
-permalink: How-can-I-generate-static-HTML-from-a-dynamic-ColdFusion-page.html
+permalink: entries/How-can-I-generate-static-HTML-from-a-dynamic-ColdFusion-page.html
 entryid: 56
 ---
 

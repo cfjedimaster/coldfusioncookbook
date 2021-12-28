@@ -4,7 +4,7 @@ published: May 15, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Data Structures
-permalink: How-do-I-create-an-array-with-more-than-three-dimensions.html
+permalink: entries/How-do-I-create-an-array-with-more-than-three-dimensions.html
 entryid: 89
 ---
 

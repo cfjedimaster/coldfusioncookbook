@@ -4,7 +4,7 @@ published: October 19, 2006
 author: Christopher Legge
 authorwebsite: 
 categories: Forms,Strings
-permalink: How-can-I-validate-a-password-to-make-sure-it-contains-numbers-and-letters-and-is-at-least-X-characters-long.html
+permalink: entries/How-can-I-validate-a-password-to-make-sure-it-contains-numbers-and-letters-and-is-at-least-X-characters-long.html
 entryid: 115
 ---
 

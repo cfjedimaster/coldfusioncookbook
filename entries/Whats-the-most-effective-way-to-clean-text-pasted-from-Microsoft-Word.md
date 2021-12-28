@@ -4,7 +4,7 @@ published: March 21, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Strings
-permalink: Whats-the-most-effective-way-to-clean-text-pasted-from-Microsoft-Word.html
+permalink: entries/Whats-the-most-effective-way-to-clean-text-pasted-from-Microsoft-Word.html
 entryid: 74
 ---
 

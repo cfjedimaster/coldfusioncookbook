@@ -4,7 +4,7 @@ published: January 24, 2006
 author: Emmet McGovern
 authorwebsite: 
 categories: Display and Layout
-permalink: How-do-I-force-a-file-to-download-instead-of-displaying-inline-in-IE-Firefox-and-other-browsers.html
+permalink: entries/How-do-I-force-a-file-to-download-instead-of-displaying-inline-in-IE-Firefox-and-other-browsers.html
 entryid: 39
 ---
 

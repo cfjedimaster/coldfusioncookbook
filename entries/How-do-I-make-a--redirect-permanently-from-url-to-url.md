@@ -4,7 +4,7 @@ published: June 19, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Miscellaneous
-permalink: How-do-I-make-a--redirect-permanently-from-url-to-url.html
+permalink: entries/How-do-I-make-a--redirect-permanently-from-url-to-url.html
 entryid: 103
 ---
 

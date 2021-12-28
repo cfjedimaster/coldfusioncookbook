@@ -4,7 +4,7 @@ published: May 7, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Strings
-permalink: How-do-I-remove-HTML-from-a-string.html
+permalink: entries/How-do-I-remove-HTML-from-a-string.html
 entryid: 85
 ---
 

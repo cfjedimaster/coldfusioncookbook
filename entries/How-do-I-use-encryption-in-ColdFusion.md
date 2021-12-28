@@ -4,7 +4,7 @@ published: August 6, 2007
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Security
-permalink: How-do-I-use-encryption-in-ColdFusion.html
+permalink: entries/How-do-I-use-encryption-in-ColdFusion.html
 entryid: 132
 ---
 

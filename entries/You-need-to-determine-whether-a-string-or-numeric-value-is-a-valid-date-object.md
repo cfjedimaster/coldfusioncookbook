@@ -4,7 +4,7 @@ published: January 5, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-need-to-determine-whether-a-string-or-numeric-value-is-a-valid-date-object.html
+permalink: entries/You-need-to-determine-whether-a-string-or-numeric-value-is-a-valid-date-object.html
 entryid: 4
 ---
 

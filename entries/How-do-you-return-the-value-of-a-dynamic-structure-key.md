@@ -4,7 +4,7 @@ published: January 25, 2006
 author: Ben Forta
 authorwebsite: http://www.forta.com
 categories: Data Structures
-permalink: How-do-you-return-the-value-of-a-dynamic-structure-key.html
+permalink: entries/How-do-you-return-the-value-of-a-dynamic-structure-key.html
 entryid: 41
 ---
 

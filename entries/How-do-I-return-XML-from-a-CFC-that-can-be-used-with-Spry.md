@@ -4,7 +4,7 @@ published: March 5, 2007
 author: Steve Milburn
 authorwebsite: 
 categories: XML
-permalink: How-do-I-return-XML-from-a-CFC-that-can-be-used-with-Spry.html
+permalink: entries/How-do-I-return-XML-from-a-CFC-that-can-be-used-with-Spry.html
 entryid: 129
 ---
 

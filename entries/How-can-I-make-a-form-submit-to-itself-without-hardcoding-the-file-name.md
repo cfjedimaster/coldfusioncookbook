@@ -4,7 +4,7 @@ published: January 9, 2006
 author: Ben Forta
 authorwebsite: http://www.forta.com
 categories: Forms
-permalink: How-can-I-make-a-form-submit-to-itself-without-hardcoding-the-file-name.html
+permalink: entries/How-can-I-make-a-form-submit-to-itself-without-hardcoding-the-file-name.html
 entryid: 22
 ---
 

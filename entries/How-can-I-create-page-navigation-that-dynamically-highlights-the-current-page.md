@@ -4,7 +4,7 @@ published: November 24, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Miscellaneous
-permalink: How-can-I-create-page-navigation-that-dynamically-highlights-the-current-page.html
+permalink: entries/How-can-I-create-page-navigation-that-dynamically-highlights-the-current-page.html
 entryid: 120
 ---
 

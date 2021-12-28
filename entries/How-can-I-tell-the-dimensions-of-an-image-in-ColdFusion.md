@@ -4,7 +4,7 @@ published: December 26, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Miscellaneous
-permalink: How-can-I-tell-the-dimensions-of-an-image-in-ColdFusion.html
+permalink: entries/How-can-I-tell-the-dimensions-of-an-image-in-ColdFusion.html
 entryid: 123
 ---
 

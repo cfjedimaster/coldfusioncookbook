@@ -4,7 +4,7 @@ published: January 12, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Numbers
-permalink: You-need-to-work-with-nonUS-formatted-numbers-and-currencies.html
+permalink: entries/You-need-to-work-with-nonUS-formatted-numbers-and-currencies.html
 entryid: 19
 ---
 

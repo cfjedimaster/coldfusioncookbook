@@ -4,7 +4,7 @@ published: March 23, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Queries
-permalink: How-do-I-resort-a-query.html
+permalink: entries/How-do-I-resort-a-query.html
 entryid: 75
 ---
 

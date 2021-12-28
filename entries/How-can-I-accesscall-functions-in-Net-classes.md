@@ -4,7 +4,7 @@ published: December 19, 2007
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Miscellaneous
-permalink: How-can-I-accesscall-functions-in-Net-classes.html
+permalink: entries/How-can-I-accesscall-functions-in-Net-classes.html
 entryid: 138
 ---
 

@@ -4,7 +4,7 @@ published: June 13, 2006
 author: Ben Wakeman
 authorwebsite: http://www.d-p.com
 categories: Display and Layout
-permalink: How-do-I-output-a-query-result-set-grouped-by-a-specific-field.html
+permalink: entries/How-do-I-output-a-query-result-set-grouped-by-a-specific-field.html
 entryid: 100
 ---
 

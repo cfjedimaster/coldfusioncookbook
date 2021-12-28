@@ -4,7 +4,7 @@ published: July 21, 2008
 author: Stefan le Roux
 authorwebsite: http://www.coldfury.us
 categories: File and Directory Access
-permalink: How-do-I-monitor-a-file-directory-for-addeddeleted-changed-files.html
+permalink: entries/How-do-I-monitor-a-file-directory-for-addeddeleted-changed-files.html
 entryid: 150
 ---
 

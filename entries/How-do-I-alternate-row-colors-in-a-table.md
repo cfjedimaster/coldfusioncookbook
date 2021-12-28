@@ -4,7 +4,7 @@ published: January 9, 2006
 author: Cory Toth
 authorwebsite: 
 categories: Display and Layout
-permalink: How-do-I-alternate-row-colors-in-a-table.html
+permalink: entries/How-do-I-alternate-row-colors-in-a-table.html
 entryid: 20
 ---
 

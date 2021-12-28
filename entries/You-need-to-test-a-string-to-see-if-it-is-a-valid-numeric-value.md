@@ -4,7 +4,7 @@ published: January 12, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Numbers
-permalink: You-need-to-test-a-string-to-see-if-it-is-a-valid-numeric-value.html
+permalink: entries/You-need-to-test-a-string-to-see-if-it-is-a-valid-numeric-value.html
 entryid: 15
 ---
 

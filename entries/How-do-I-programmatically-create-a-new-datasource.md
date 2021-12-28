@@ -4,7 +4,7 @@ published: February 15, 2007
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Database / SQL,Miscellaneous
-permalink: How-do-I-programmatically-create-a-new-datasource.html
+permalink: entries/How-do-I-programmatically-create-a-new-datasource.html
 entryid: 128
 ---
 

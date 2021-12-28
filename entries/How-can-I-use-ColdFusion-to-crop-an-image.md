@@ -4,7 +4,7 @@ published: December 10, 2007
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Images
-permalink: How-can-I-use-ColdFusion-to-crop-an-image.html
+permalink: entries/How-can-I-use-ColdFusion-to-crop-an-image.html
 entryid: 136
 ---
 

@@ -4,7 +4,7 @@ published: January 31, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-do-I-prevent-a-file-from-becoming-corrupt-due-to-simultaneous-access.html
+permalink: entries/How-do-I-prevent-a-file-from-becoming-corrupt-due-to-simultaneous-access.html
 entryid: 47
 ---
 

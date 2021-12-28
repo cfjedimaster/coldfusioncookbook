@@ -4,7 +4,7 @@ published: April 6, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: File and Directory Access
-permalink: How-do-I-delete-a-folder-and-all-files-and-subfolders-beneath-it.html
+permalink: entries/How-do-I-delete-a-folder-and-all-files-and-subfolders-beneath-it.html
 entryid: 81
 ---
 

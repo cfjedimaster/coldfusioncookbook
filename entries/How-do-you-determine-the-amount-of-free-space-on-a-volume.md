@@ -4,7 +4,7 @@ published: March 1, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-do-you-determine-the-amount-of-free-space-on-a-volume.html
+permalink: entries/How-do-you-determine-the-amount-of-free-space-on-a-volume.html
 entryid: 57
 ---
 

@@ -4,7 +4,7 @@ published: July 10, 2008
 author: John Whish
 authorwebsite: http://www.aliaspooryorik.com/blog/
 categories: Images
-permalink: How-do-I-get-a-random-image-from-a-directory.html
+permalink: entries/How-do-I-get-a-random-image-from-a-directory.html
 entryid: 145
 ---
 

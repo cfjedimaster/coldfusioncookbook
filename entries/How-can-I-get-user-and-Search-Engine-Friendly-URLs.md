@@ -4,7 +4,7 @@ published: July 6, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Miscellaneous
-permalink: How-can-I-get-user-and-Search-Engine-Friendly-URLs.html
+permalink: entries/How-can-I-get-user-and-Search-Engine-Friendly-URLs.html
 entryid: 104
 ---
 

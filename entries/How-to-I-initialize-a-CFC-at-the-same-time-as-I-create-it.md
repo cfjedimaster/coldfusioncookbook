@@ -4,7 +4,7 @@ published: April 17, 2006
 author: Michael Dinowitz
 authorwebsite: http://www.houseoffusion.com/
 categories: Components
-permalink: How-to-I-initialize-a-CFC-at-the-same-time-as-I-create-it.html
+permalink: entries/How-to-I-initialize-a-CFC-at-the-same-time-as-I-create-it.html
 entryid: 83
 ---
 

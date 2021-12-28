@@ -4,7 +4,7 @@ published: February 2, 2006
 author: Tariq Ahmed
 authorwebsite: http://www.cflex.net/
 categories: Strings,Lists
-permalink: How-do-I-get-the-username-or-domain-from-an-email-address.html
+permalink: entries/How-do-I-get-the-username-or-domain-from-an-email-address.html
 entryid: 49
 ---
 

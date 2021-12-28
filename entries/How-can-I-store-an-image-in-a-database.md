@@ -4,7 +4,7 @@ published: July 8, 2008
 author: Matt Evans
 authorwebsite: http://www.matevans.co.uk/
 categories: Database / SQL,Images
-permalink: How-can-I-store-an-image-in-a-database.html
+permalink: entries/How-can-I-store-an-image-in-a-database.html
 entryid: 144
 ---
 

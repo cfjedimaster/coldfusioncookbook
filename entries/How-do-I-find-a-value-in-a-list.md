@@ -4,7 +4,7 @@ published: January 18, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Data Structures
-permalink: How-do-I-find-a-value-in-a-list.html
+permalink: entries/How-do-I-find-a-value-in-a-list.html
 entryid: 34
 ---
 

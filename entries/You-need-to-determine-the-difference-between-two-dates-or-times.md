@@ -4,7 +4,7 @@ published: January 6, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-need-to-determine-the-difference-between-two-dates-or-times.html
+permalink: entries/You-need-to-determine-the-difference-between-two-dates-or-times.html
 entryid: 9
 ---
 

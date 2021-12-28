@@ -4,7 +4,7 @@ published: January 10, 2006
 author: Charlie Griefer
 authorwebsite: http://charlie.griefer.com/
 categories: Data Structures
-permalink: How-do-you-loop-over-the-values-in-a-structure.html
+permalink: entries/How-do-you-loop-over-the-values-in-a-structure.html
 entryid: 23
 ---
 

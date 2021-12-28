@@ -4,7 +4,7 @@ published: August 14, 2008
 author: Stefan le Roux
 authorwebsite: http://www.coldfury.us
 categories: Database / SQL
-permalink: How-do-I-create-a-query-by-hand.html
+permalink: entries/How-do-I-create-a-query-by-hand.html
 entryid: 153
 ---
 

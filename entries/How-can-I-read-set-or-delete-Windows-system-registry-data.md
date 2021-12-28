@@ -4,7 +4,7 @@ published: February 2, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-can-I-read-set-or-delete-Windows-system-registry-data.html
+permalink: entries/How-can-I-read-set-or-delete-Windows-system-registry-data.html
 entryid: 52
 ---
 

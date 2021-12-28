@@ -4,7 +4,7 @@ published: February 2, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: File and Directory Access
-permalink: How-do-I-read-and-write-binary-files.html
+permalink: entries/How-do-I-read-and-write-binary-files.html
 entryid: 50
 ---
 

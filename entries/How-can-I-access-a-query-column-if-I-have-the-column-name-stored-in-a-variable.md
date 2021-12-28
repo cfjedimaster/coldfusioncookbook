@@ -4,7 +4,7 @@ published: March 23, 2006
 author: Christoph Schmitz
 authorwebsite: 
 categories: Queries
-permalink: How-can-I-access-a-query-column-if-I-have-the-column-name-stored-in-a-variable.html
+permalink: entries/How-can-I-access-a-query-column-if-I-have-the-column-name-stored-in-a-variable.html
 entryid: 33
 ---
 

@@ -4,7 +4,7 @@ published: June 2, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Miscellaneous
-permalink: How-do-I-create-a-vCard-vCalender-link-and-have-it-download-to-MS-Outlook.html
+permalink: entries/How-do-I-create-a-vCard-vCalender-link-and-have-it-download-to-MS-Outlook.html
 entryid: 95
 ---
 

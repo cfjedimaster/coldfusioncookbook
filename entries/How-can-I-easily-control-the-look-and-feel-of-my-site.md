@@ -4,7 +4,7 @@ published: July 3, 2008
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Display and Layout
-permalink: How-can-I-easily-control-the-look-and-feel-of-my-site.html
+permalink: entries/How-can-I-easily-control-the-look-and-feel-of-my-site.html
 entryid: 142
 ---
 

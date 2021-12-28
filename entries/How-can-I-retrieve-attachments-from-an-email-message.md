@@ -4,7 +4,7 @@ published: July 17, 2008
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Email
-permalink: How-can-I-retrieve-attachments-from-an-email-message.html
+permalink: entries/How-can-I-retrieve-attachments-from-an-email-message.html
 entryid: 148
 ---
 

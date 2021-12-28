@@ -4,7 +4,7 @@ published: April 17, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Forms
-permalink: How-can-I-dynamically--find-what-form-fields-have-been-posted-into-a-page.html
+permalink: entries/How-can-I-dynamically--find-what-form-fields-have-been-posted-into-a-page.html
 entryid: 82
 ---
 

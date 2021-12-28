@@ -4,7 +4,7 @@ published: February 7, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Caching
-permalink: How-can-I-prevent-a-browser-from-caching-my-page.html
+permalink: entries/How-can-I-prevent-a-browser-from-caching-my-page.html
 entryid: 54
 ---
 

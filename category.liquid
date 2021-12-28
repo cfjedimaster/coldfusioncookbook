@@ -1,0 +1,23 @@
+---
+pagination:
+   data: categorylist
+   size: 1
+   alias: category
+permalink: "category/{{ category.slug }}.html"
+eleventyComputed:
+   title: "{{ category.title }}"
+   headertext: "{{ category.desc }}"
+layout: main
+---
+
+{% assign entriesForCats = collections.entries | filterByCat: category.slug, categorylist %}
+
+
+<h3>Questions</h3>
+{% for entry in entriesForCats %}
+<p>
+	<a href="{{ entry.url }}">{{ entry.data.title }}</a><br/>
+</p>
+{% endfor %}
+
+

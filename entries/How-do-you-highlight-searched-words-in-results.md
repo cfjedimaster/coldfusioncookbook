@@ -4,7 +4,7 @@ published: June 30, 2006
 author: Jeremy Petersen
 authorwebsite: http://www.petersenfam.com/jeremy/
 categories: Strings,Full-Text Searching
-permalink: How-do-you-highlight-searched-words-in-results.html
+permalink: entries/How-do-you-highlight-searched-words-in-results.html
 entryid: 92
 ---
 

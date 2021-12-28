@@ -4,7 +4,7 @@ published: March 2, 2006
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Security
-permalink: How-do-I-reset-the-ColdFusion-Administrator-password.html
+permalink: entries/How-do-I-reset-the-ColdFusion-Administrator-password.html
 entryid: 68
 ---
 

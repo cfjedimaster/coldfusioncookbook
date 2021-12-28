@@ -4,7 +4,7 @@ published: December 20, 2008
 author: Raymond Camden
 authorwebsite: http://www.raymondcamden.com
 categories: Strings
-permalink: How-do-I-create-RSS-feeds.html
+permalink: entries/How-do-I-create-RSS-feeds.html
 entryid: 155
 ---
 

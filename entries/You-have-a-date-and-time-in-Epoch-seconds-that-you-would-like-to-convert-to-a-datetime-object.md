@@ -4,7 +4,7 @@ published: January 6, 2006
 author: Rob Brooks-Bilson
 authorwebsite: http://www.brooks-bilson.com/blogs/rob/
 categories: Dates/Times
-permalink: You-have-a-date-and-time-in-Epoch-seconds-that-you-would-like-to-convert-to-a-datetime-object.html
+permalink: entries/You-have-a-date-and-time-in-Epoch-seconds-that-you-would-like-to-convert-to-a-datetime-object.html
 entryid: 14
 ---
 
