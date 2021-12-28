@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="ColdFusion Cookbook is a collection of problems and solutions for typical problems you may run across in ColdFusion development." />
+<meta name="keywords" content="ColdFusion,Cookbook,CFCs,CFML,programming,problems" />
+<meta name="author" content="Raymond Camden  / Original design: Andreas Viklund - http://andreasviklund.com/" />
+<link rel="stylesheet" type="text/css" href="/stylesheets/andreas02.css" media="screen" title="andreas02 (screen)" />
+<link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
+<link href="/stylesheets/prism.css" rel="stylesheet" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.coldfusioncookbook.com/rss" />
+<title>{{ title }}</title>
+</head>
+
+<body>
+
+<div id="container">
+<div id="logo">
+<h1><a href="/">coldfusion cookbook</a></h1>
+</div>
+
+<div id="navitabs">
+<h2 class="hide">Site menu:</h2>
+<a class="<%- current.source == 'index'?'activenavitab':'navitab' %>" href="/">Welcome</a><span class="hide"> | </span>
+<a class="<%- current.source == 'categories'?'activenavitab':'navitab' %>" href="/categories.html">Categories</a><span class="hide"> | </span>
+<a class="<%- current.source == 'faq'?'activenavitab':'navitab' %>" href="/faq.html">FAQ</a><span class="hide"> | </span>
+
+<a class="<%- current.source == 'submit'?'activenavitab':'navitab' %>" href="/submit.html">Submit</a>
+</div>
+
+<div id="desc">
+<% if(current.path.length === 1) { %>	
+<h2> <%= public._data[current.path].headertitle %></h2>
+<p>
+<%= public._data[current.path].headertext %>
+</p>
+<% } else if(current.path.length === 2 && current.path[0] == "category") { %>
+	<h2><%- public.category._data[current.source].title %></h2>
+	<p>
+		<%- public.category._data[current.source].desc %>
+	</p>
+<% } %>
+</div>
+    
+<div id="main">
+	{{ content }}
+</div>
+
+<div id="sidebar">
+
+<h3>Search:</h3>
+<p><form action="/search.html" method="get"><input type="text" name="searchterms" style="width: 125px;"></form></p>
+
+
+<h3>More information:</h3>
+<p>The following are links to other sites that provide important ColdFusion information and resources.</p>
+
+<p>
+<a class="sidelink" href="http://www.coldfusionbloggers.org/">ColdFusionBloggers</a> <span class="hide"> | </span>
+<a class="sidelink" href="http://www.cflib.org/">CFLib.org</a><span class="hide"> | </span>
+<a class="sidelink" href="http://blogs.coldfusion.com/">Adobe ColdFusion Blog</a><span class="hide"> | </span>
+</p>
+<h3>RSS</h3>
+<p><a href="/rss">RSS Feed</a></p>
+</div>
+    
+<div id="footer">
+Created by <a href="https://www.raymondcamden.com">Raymond Camden</a>. Design by Andreas Viklund. Header design by <a href="http://www.kylehayes.info/">Kyle Hayes</a>.
+</div>
+
+<div style="margin-top: 10px;">
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1736437642005360";
+/* CFCookbook Bottom Banner */
+google_ad_slot = "4635477890";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70863-20', 'coldfusioncookbook.com');
+  ga('send', 'pageview');
+
+</script>
+<script src="/js/prism.js"></script>
+</body>
+</html>
