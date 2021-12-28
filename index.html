@@ -1,4 +1,26 @@
 ---
 layout: main
+headertext: The purpose of this site is simple - help people solve problems in the quickest and most efficient manner possible.
 ---
- 
+
+<h3>Welcome to the ColdFusion Cookbook.</h3>
+
+<p>
+I'd like to welcome you to the ColdFusion Cookbook. The purpose of this site is simple - help
+people solve problems. Many of the problems that developers encounter are problems that we have all encountered.
+This site was created in January of 2006. It was the creation of <a href="https://www.raymondcamden.com">Raymond Camden</a>, but many
+people had a hand in helping create this site and the content found within.
+</p>
+
+<p>
+There are currently <b>{{ collections.entries | size }}</b> entries released!
+</p>
+
+<h3>Recent Entries</h3>
+
+{% assign entries = collections.entries %}
+<p>
+{% for entry in entries limit:10 %}
+	<a href="{{ entry.url }}">{{ entry.data.title }}</a><br/>
+{% endfor %}
+</p>
