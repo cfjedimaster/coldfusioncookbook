@@ -9,32 +9,16 @@ This question was written by <a href="{{authorwebsite}}">{{author}}</a><br/>
 It was last updated on {{published}}.
 </p>
 
-<%
-	function getEntry() {
-		return public.entries._data[current.source];
-	}
-
-	
-	function getCatLink(s) {
-		for(var cat in public.category._data) {
-			if(public.category._data[cat].title === s) return cat + ".html";
-		}
-		return "";
-	}
-
-	var entryid = getEntry().id;
-%>
-
 {% comment %}
 categories is a comma separated list
 {% endcomment %}
 
+
 {% assign cats = categories | split: "," %}
 <h3>Categories</h3>
 
-<p>
 {% for cat in cats %}
-	<a href="/category/<%- getCatLink(cats[i]) %>">{{ cat }}</a><br/>
+	<a href="/category/{{ cat | catLink: categorylist }}">{{ cat }}</a><br/>
 {% endfor %}
 </p>
 

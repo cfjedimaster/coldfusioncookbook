@@ -39,7 +39,7 @@ published: ${d.published}
 author: ${d.author}
 authorwebsite: ${d.authorwebsite}
 categories: ${d.categories}
-permalink: ${e}.html
+permalink: entries/${e}.html
 entryid: ${d.id}
 ---
 
