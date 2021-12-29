@@ -26,18 +26,18 @@ title: ColdFusion Cookbook
 <h2 class="hide">Site menu:</h2>
 <a class="{% if page.url == "/" %}activenavitab{% else %}navitab{% endif %}" href="/">Welcome</a><span class="hide"> | </span>
 <a class="{% if page.url == "/categories/" %}activenavitab{% else %}navitab{% endif %}" href="/categories">Categories</a><span class="hide"> | </span>
-<a class="{% if page.url == "/faq" %}activenavitab{% else %}navitab{% endif %}" href="/faq.html">FAQ</a><span class="hide"> | </span>
-<a class="{% if page.url == "/submit" %}activenavitab{% else %}navitab{% endif %}" href="/submit.html">Submit</a>
+<a class="{% if page.url == "/faq/" %}activenavitab{% else %}navitab{% endif %}" href="/faq">FAQ</a><span class="hide"> | </span>
+<a class="{% if page.url == "/submit" %}activenavitab{% else %}navitab{% endif %}" href="/submit">Submit</a>
 </div>
 
 <div id="desc">
 {% if page.url contains "entries" %}
 {% else %}
 <h2>{{ title }}</h2>
-{% endif %}
 <p>
 {{ headertext }}
 </p>
+{% endif %}
 </div>
     
 <div id="main">
