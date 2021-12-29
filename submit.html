@@ -5,3 +5,34 @@ headertext: Help the cookbook grow! Please use the form below to submit your que
 ---
 
 <h3>Submit</h3>
+
+<p>
+Please follow the following guidelines when submitting your entry:
+<ul>
+<li>The topic should be very simple and direct. It should cover one topic only. 
+<li>Your code should use latest ColdFusion functionality whenever possible.
+<li>For blocks of code, surround them with &lt;code&gt; and &lt;/code&gt; tags.
+<li>Tags should include a &lt; and &gt; and be in camel case. Example: &lt;cfdirectory newDirectory="...." &gt;)
+<li>Functions should also be in camel case and should include (). Example: result = fileExists(...)
+<li>Yes, some entries here do not follow the standard. We will fix it... soon.
+</ul>
+</p>
+
+<p>
+To submit new content, file a PR against the repository at <https://github.com/cfjedimaster/coldfusioncookbook>. Entries are in Markdown
+and have the following items in the front matter:
+</p>
+
+<ul>
+<li>title: The title of your entry</li>
+<li>>published: The current date in the form, "October 19, 2021"</li>
+<li>author: Your name</li> 
+<li>authorwebsite: URL for your homepage/blog/etc</li>
+<li>categories: One or more categories that should, typically, match existing [categories](/categories).</li>
+<li>permalink: Of the form: entries/"file safe version of the title".html</li>
+<li>entryid: A unique ID used for Disqus integration. Older entries use an old database PK. New ones should just use the file slug from the permalink</li>
+</ul>
+
+<p>
+Note - we have a lot of older content here. If something should be removed completely, I'll accept a PR for that as well.
+</p>
