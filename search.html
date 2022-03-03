@@ -1,0 +1,67 @@
+---
+title: Searcg
+layout: main 
+headertext: Search for content here!
+---
+
+
+<h3>Search</h3>
+
+<p>
+<input type="search" id="searchField"> <input type="button" id="searchButton" value="Search">
+</p>
+
+<div id="resultsDiv"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', init, false);
+
+let searchField, searchButton, client, index, resultsDiv;
+
+function init() {
+	searchField = document.querySelector('#searchField');
+	searchButton = document.querySelector('#searchButton');
+	resultsDiv = document.querySelector('#resultsDiv');
+	client = algoliasearch('WFABFE7Z9Q', 'd1c88c3f98648a69f11cdd9d5a87de08');
+	index = client.initIndex('crawler_ColdFusion Cookbook');
+
+	let qp = new URLSearchParams(window.location.search);
+	if(qp.get('searchterms')) {
+		searchField.value = qp.get('searchterms');
+		search();
+	}
+	searchButton.addEventListener('click', search, false);
+
+
+}
+
+async function search() {
+	let s = searchField.value;
+	console.log('search for',s);
+	searchButton.setAttribute('disabled', 'disabled');
+	let resultsRaw = await index.search(s,{
+		attributesToRetrieve:['title', 'url'],
+		attributesToSnippet:['description'],
+		hitsPerPage: 50
+	});
+	console.log('results', resultsRaw);
+	let results = resultsRaw.hits;
+
+	let result = '';
+	if(results.length === 0) {
+		result = '<p>Sorry, but there were no matches for this term.</p>';
+	} else {
+		result = `<p>There were ${results.length} hit(s) for this term:</p><ul>`;
+		results.forEach(r => {
+			result += `<li><a href="${r.url}">${r.title}</a></li>`;
+		});
+		result += '</ul>';
+	}
+	
+	resultsDiv.innerHTML = result;
+	searchButton.removeAttribute('disabled');
+
+
+}
+</script>
